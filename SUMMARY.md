@@ -1,6 +1,7 @@
 # Table of contents
 
-* [1. Persiapan](README.md)
+* [Frontend Web Dev Fundamental](README.md)
+* [1. Persiapan](<README (1).md>)
   * [Install Code Editor VSCode](<1. Persiapan/Install Code Editor  VSCode.md>)
 * [2. Belajar HTML](2.-belajar-html/README.md)
   * [1.Hyper Text Markup Language (HTML)](<2. Belajar HTML/1.HTML is .md>)
