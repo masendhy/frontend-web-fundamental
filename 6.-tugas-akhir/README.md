@@ -1,2 +1,0 @@
-# 6. Tugas Akhir
-
