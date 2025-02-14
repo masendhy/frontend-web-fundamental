@@ -1,4 +1,4 @@
-# Install Code Editor  VSCode
+# Install Code Editor VSCode
 
 ### 1. Download VSCode
 
@@ -6,9 +6,9 @@
 
 ### 2. Download VSCode Extention
 
-* Atom One Dark Theme : [https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark](<Install Code Editor  VSCode.md>)
-* Auto Close Tag : [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag](<Install Code Editor  VSCode.md>)
-* Auto Rename Tag : [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag](<Install Code Editor  VSCode.md>)
+* Atom One Dark Theme : [https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+* Auto Close Tag : [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+* Auto Rename Tag : [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * Better Comments : [https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments](<Install Code Editor  VSCode.md>)
 * colorize : [https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize](<Install Code Editor  VSCode.md>)
 * Hungry Delete : [https://marketplace.visualstudio.com/items?itemName=jasonlhy.hungry-delete](<Install Code Editor  VSCode.md>)
